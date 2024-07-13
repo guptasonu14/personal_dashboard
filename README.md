@@ -1,6 +1,7 @@
 # Personal Dashboard Application
 
-![Personal Dashboard Screenshot](screenshot.png)
+![image](https://github.com/user-attachments/assets/4aff164e-8ba3-43cf-81ad-b9696f05e9ad)
+
 
 This is a simple personal dashboard application built using ReactJS. It displays current weather information and top news headlines.
 
