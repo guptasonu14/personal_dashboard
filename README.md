@@ -48,17 +48,17 @@ personal-dashboard-app/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/personal-dashboard-app.git
-   cd personal-dashboard-app
+   git clone https://github.com/guptasonu14/personal_dashboard.git
+   cd personal_dashboard
 
 2. Install dependencies
    npm install
 
-3. npm start
+3. npm run dev
 
 4. View the application
 
-   Open http://localhost:3000 in your browser.
+   Open http://localhost:5173 in your browser.
 
 Design Decisions
 Used separate components for Weather and News widgets for modularity.
